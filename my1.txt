@@ -2,5 +2,12 @@ my new file
 my new file
 
 my new file
+<<<<<<< HEAD
 my new file
 my new file
+
+my new file
+my new file
+my new file
+
+
